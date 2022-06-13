@@ -1,0 +1,1 @@
+If a date is composed entirely of odd digits (i.e., ONLY contains the digits 1, 3, 5, 7, and 9) then it will print it out, if not, it will compute and print the first subsequent date that is, along with the number of days until then.
