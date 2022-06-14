@@ -1,3 +1,0 @@
-The program works out the total fence required to fence off the perimeter, as well as the total cost of the fence. The user must input values for the widths, 
-heights, and price per metre in the order: w1, h1, w2, h2, price per metre. The program 
-must then prints out the total number of metres of fence and the associated cost.
