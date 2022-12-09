@@ -1,0 +1,1 @@
+This program detects all troughs and peaks in a given array sequence of numbers with heights of each index. True peaks are separated by a given value that is user set and the indexes are output based on this
